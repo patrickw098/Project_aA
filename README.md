@@ -16,6 +16,8 @@ Official name to come later...
 - Search 
 - Swipe Functionality / Responsiveness
 - Selections based on Geolocation
-- Bookmarking
+- Bookmarking pictures 
+
+
 
 
